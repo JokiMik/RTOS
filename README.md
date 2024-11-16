@@ -1,1 +1,2 @@
-# RTOS
+# Software Design of Embedded Device Course Autumn 2024
+This course explored Zephyr RTOS programming, Google Test for unit testing, and Robot Framework for test automation. The development platform used for the project was the nRF5340 Audio DK board. The main coding project involved a traffic light simulation, with weekly updates, which provided hands-on experience with embedded systems design and testing methodologies.
